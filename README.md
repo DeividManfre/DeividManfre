@@ -21,4 +21,5 @@
   <img alt="Python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Django"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img alt="Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img src="https://ghchart.rshah.org/2e8b57/DeividManfre" alt="Contributions in the last year" />
 </div>
