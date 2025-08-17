@@ -22,10 +22,3 @@
   <img alt="Django"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img alt="Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
-
-### Metrics
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/DeividManfre?template=classic&base=header,activity,repositories&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.sections=most-used&languages.details=percentage&languages.limit=8&config.timezone=America%2FSao_Paulo"
-    alt="GitHub Metrics" />
-</p>
