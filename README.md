@@ -30,10 +30,3 @@
     alt="Typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeividManfre&theme=github-compact&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=24&animation=twinkling" alt="footer wave"/>
-</p>
