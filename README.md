@@ -27,5 +27,4 @@
 
 ### Metrics
 
-![GitHub Metrics](https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg)
-
+[![GitHub Metrics](https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg)](https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg)
