@@ -24,6 +24,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg" alt="GitHub Metrics">
 
 </div>
