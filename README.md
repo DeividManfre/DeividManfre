@@ -28,3 +28,6 @@
 </div>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg" alt="GitHub Metrics"/>
+</div>
