@@ -27,5 +27,5 @@
 
 ### Metrics
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg" alt="GitHub Metrics" />
+  ![GitHub Metrics](https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg)
 </div>
