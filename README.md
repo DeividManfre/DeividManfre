@@ -21,5 +21,19 @@
   <img alt="Python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Django"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img alt="Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img src="https://ghchart.rshah.org/2e8b57/DeividManfre" alt="Contributions in the last year" />
 </div>
+
+### Metrics
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=720&duration=2500&lines=Programador+e+Hacker+%C3%89tico;Automação+%7C+IA+local+(Ollama)+%7C+Pentest;Python+%7C+FastAPI+%7C+Docker+%7C+ComfyUI"
+    alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeividManfre&theme=github-compact&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=24&animation=twinkling" alt="footer wave"/>
+</p>
