@@ -24,7 +24,9 @@
 </div>
 
 ---
-
 ### Metrics
-
-[![GitHub Metrics](https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg)](https://raw.githubusercontent.com/DeividManfre/DeividManfre/output/metrics.svg)
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/DeividManfre?template=classic&base=header,activity,repositories&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.sections=most-used&languages.details=percentage&languages.limit=8&config.timezone=America%2FSao_Paulo"
+    alt="GitHub Metrics" />
+</p>
